@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local files
+public/3d_model
+public/3d_model/12939_Stone_Chess_King_Side_A_V2_l1.glb
+public/3d_model/12940_Stone_Chess_Queen_Side_A_V2_l1.glb
+public/3d_model/12941_Stone_Chess_Rook_Side_A_V2_l1.glb
+public/3d_model/12942_Stone_Chess_Bishop_V2_l1.glb
+public/3d_model/12943_Stone_Chess_Knight_Side_A_v2_l1.glb
+public/3d_model/12944_Stone_Chess_Pawn_Side_A_V2_L3.glb
+public/3d_model/12945_Stone_Chess_King_Side_B_v2_l1.glb
+public/3d_model/12946_Stone_Chess_Queen_Side_B_V2_l1.glb
+public/3d_model/12947_Stone_Chess_Rook_Side_B_v2_l1.glb
+public/3d_model/12948_Stone_Chess_Bishop_Side_B_v2_l1.glb
+public/3d_model/12949_Stone_Chess_Knight_Side_B_V2_l1.glb
+public/3d_model/12950_Stone_Chess_Pawn_Side_B_v2_l3.glb
+public/3d_model/12951_Stone_Chess_Board_v1_L3.glb
